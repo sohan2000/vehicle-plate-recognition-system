@@ -27,7 +27,6 @@ This project is a deep learning-based system for automatic vehicle license plate
    - Test the recognition pipeline on sample images and visualize results.
 
 **Notes**
-- The code assumes plate locations are known from annotations; it does not perform plate detection.
 - The model is tailored for uppercase English letters and digits (A-Z, 0-9).
 - For best results, use the provided dataset structure.
 
